@@ -1,4 +1,4 @@
-# Australian Bushfire Support
+# [Australian Bushfire Help](https://bushfire.help/)
 
 > If someone has the capacity to put together a really simple website with a
 > directory of services available for evacuees and victims of the bushfires,
@@ -36,4 +36,4 @@
 ### NSW
 
 *   [Service NSW Information](https://www.service.nsw.gov.au/assistance-bushfire-affected-communities)
-*   []
+<!-- *   [] -->
