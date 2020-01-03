@@ -40,5 +40,12 @@
 
 ## Other Services
 
+### Accomodation
+
+*   [Share a bed](https://epr1984.wixsite.com/shareabed) if you have spare space, or need a place to sleep, check in here.
+
+### Social Media
+
 *   [Facebook Crisis Response » The Bushfires Across Southeastern New South Wales, Australia](https://www.facebook.com/crisisresponse/821836334954181/)
     to mark yourself as safe.
+
