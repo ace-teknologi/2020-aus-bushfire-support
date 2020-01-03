@@ -31,6 +31,8 @@
 *   [Victoria CFS](https://www.cfa.vic.gov.au/volunteer-careers/volunteers)
 *   [SA CFS](https://cfsfoundation.org.au/donate)
 
+More information at [ABC](https://www.abc.net.au/classic/read-and-watch/news/bushfire-donations/11823676)
+
 ## Government Services
 
 ### NSW
@@ -42,7 +44,12 @@
 
 ### Accomodation
 
-*   [Share a bed](https://epr1984.wixsite.com/shareabed) if you have spare space, or need a place to sleep, check in here.
+*   [Share a bed](https://epr1984.wixsite.com/shareabed)
+    if you have spare space, or need a place to sleep, check in here.
+
+*   [Bushfire Support/Emergency Accommodation South Coast/Sydney/Blue Mountains](https://www.facebook.com/groups/495740497967750/)
+
+*   [Bushfire Emergency accommodation in Canberra](https://www.facebook.com/groups/1639155472891471/)
 
 ### Social Media
 
