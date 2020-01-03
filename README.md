@@ -37,3 +37,8 @@
 
 *   [Service NSW Information](https://www.service.nsw.gov.au/assistance-bushfire-affected-communities)
 <!-- *   [] -->
+
+## Other Services
+
+*   [Facebook Crisis Response » The Bushfires Across Southeastern New South Wales, Australia](https://www.facebook.com/crisisresponse/821836334954181/)
+    to mark yourself as safe.
