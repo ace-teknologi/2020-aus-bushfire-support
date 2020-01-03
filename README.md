@@ -51,7 +51,14 @@ More information at [ABC](https://www.abc.net.au/classic/read-and-watch/news/bus
 
 *   [Bushfire Emergency accommodation in Canberra](https://www.facebook.com/groups/1639155472891471/)
 
+*   [Airbnb Open Homes NSW](https://www.airbnb.com.au/openhomes/disaster-relief/bushfire-new-south-wales-2020-01)
+
+*   [Airbnb Open Homes Victoria](https://www.airbnb.com.au/openhomes/disaster-relief/victoriabushfires20)
+
 ### Social Media
+
+*   [Google Crisis Map](https://google.org/crisismap/australia)
+    **Note** Victorian is not visible on this map. Please use Victoria CFS link at top of page.
 
 *   [Facebook Crisis Response » The Bushfires Across Southeastern New South Wales, Australia](https://www.facebook.com/crisisresponse/821836334954181/)
     to mark yourself as safe.
