@@ -1,5 +1,7 @@
 # [Australian Bushfire Help](https://bushfire.help/)
 
+Why? Read [about](./about.md).
+
 ## Updates
 
 *   [NSW Rural Fire Service](https://www.rfs.nsw.gov.au/)
