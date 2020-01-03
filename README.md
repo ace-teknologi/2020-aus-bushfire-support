@@ -34,13 +34,16 @@ More information at [ABC](https://www.abc.net.au/classic/read-and-watch/news/bus
 ### NSW
 
 *   [Service NSW Information](https://www.service.nsw.gov.au/assistance-bushfire-affected-communities)
-<!-- *   [] -->
 
 ## Other Services
 
 ### Red Cross *Register. Find. Reunite*
 
 *   <https://register.redcross.org.au/>
+
+### Support
+
+*   [South Coast Fire Support Team](https://www.facebook.com/groups/southcoastfiresupport/)
 
 ### Accomodation
 
@@ -50,6 +53,7 @@ More information at [ABC](https://www.abc.net.au/classic/read-and-watch/news/bus
 *   [Bushfire Support/Emergency Accommodation South Coast/Sydney/Blue Mountains](https://www.facebook.com/groups/495740497967750/)
 
 *   [Bushfire Emergency accommodation in Canberra](https://www.facebook.com/groups/1639155472891471/)
+
 
 *   [Airbnb Open Homes NSW](https://www.airbnb.com.au/openhomes/disaster-relief/bushfire-new-south-wales-2020-01)
 
